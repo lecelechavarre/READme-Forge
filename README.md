@@ -14,7 +14,6 @@ Quick Start
 ```bash
 cd backend
 python -m venv venv
-```
 ```bash # Windows:
 venv\Scripts\activate
 # Mac/Linux:
@@ -45,10 +44,10 @@ Go to: http://localhost:5173
 ```
 
 How to Use
-Fill out the form with your project details
-See live preview on the right side
-Upload screenshots by dragging and dropping
-Click "Export README" to download or push to GitHub
+-Fill out the form with your project details
+-See live preview on the right side
+-Upload screenshots by dragging and dropping
+-Click "Export README" to download or push to GitHub
 
 Setup API Keys (Optional)
 Create backend/.env file:
