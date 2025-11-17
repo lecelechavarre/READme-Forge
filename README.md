@@ -14,7 +14,7 @@ Quick Start
 ```bash
 cd backend
 python -m venv venv
-```bash # Windows:
+# Windows:
 venv\Scripts\activate
 # Mac/Linux:
 source venv/bin/activate
