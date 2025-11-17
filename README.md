@@ -1,18 +1,6 @@
 ReadMe Forge
+
 A simple tool to create professional README files for your projects.
-
-What It Does
-Create README files with a simple form
-
-See live preview as you type
-
-Upload screenshots easily
-
-Get AI-generated descriptions (optional)
-
-Export directly to GitHub
-
-Download as Markdown file
 
 Quick Start
 1. Install Backend
@@ -48,17 +36,6 @@ npm run dev
 Go to: http://localhost:5173
 ```
 
-How to Use
--Fill out the form with your project details
-
--See live preview on the right side
-
--Upload screenshots by dragging and dropping
-
--Click "Export README" to download or push to GitHub
-
-Setup API Keys (Optional)
-Create backend/.env file:
 ```
 env
 OPENAI_API_KEY=your_openai_key_here
